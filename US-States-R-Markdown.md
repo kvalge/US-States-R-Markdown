@@ -82,8 +82,11 @@ Bureau of the Census (1977) County and City Data Book.
 The histogram shows a distribution that resembles a normal distribution
 but is skewed to the left. The histogram has a few unusually tall bars
 that are located farther away from the mean, on both sides of the
-distribution, disrupting the bell-shaped curve. Nevertheless, the test
-statistic W is close to 1 and the p-value is greater than 0.05.
+distribution, disrupting the bell-shaped curve. The left skew and the
+few tall bars might indicate an uneven distribution of the data or
+special cases that affect the overall shape of the distribution.
+Nevertheless, the test statistic W is close to 1 and the p-value is
+greater than 0.05.
 
 ### Illiteracy
 
