@@ -1,4 +1,4 @@
-US-States-R-Markdown
+US State Facts and Figures
 ================
 Katrin Valge
 2024-07-07
@@ -79,7 +79,10 @@ Bureau of the Census (1977) County and City Data Book.
     data:  Income
     W = 0.9769, p-value = 0.43
 
-The distribution of the data follows a normal distribution, as the test
+The histogram shows a distribution that resembles a normal distribution
+but is skewed to the left. The histogram has a few unusually tall bars
+that are located farther away from the mean, on both sides of the
+distribution, disrupting the bell-shaped curve. Nevertheless, the test
 statistic W is close to 1 and the p-value is greater than 0.05.
 
 ### Illiteracy
